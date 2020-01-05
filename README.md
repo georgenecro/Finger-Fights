@@ -39,7 +39,6 @@
             Link to privacy policy of third party service providers used by the app
         </p>
         <ul>
-            <li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li>
             <li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">Admob</a></li>
             <li><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase</a></li>
             <li><a href="https://airtable.com/privacy" target="_blank">Airtable</a></li>
