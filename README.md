@@ -1,11 +1,5 @@
 <html>
 
-<head>
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-
-</head>
-
 <body>
     <h2>Privacy Policy</h2>
     <p>
