@@ -16,7 +16,7 @@
     </p>
     <p><strong>Information Collection and Use</strong></p>
     <p>
-        For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Username if the user wants to add. The information that I request will be retained on your device and is not collected by me in any way.
+        For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to username if the user wants to add. The information that I request will be retained on your device and is not collected by me in any way.
     </p>
     <p>
         The app does use third party services that may collect information used to identify you.
